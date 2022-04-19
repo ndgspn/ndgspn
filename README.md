@@ -1,6 +1,6 @@
 
-### I decided to archive this repository. 
-My new repository org is <strong>netng</strong><br />
+### I decided to archive this repository.
+My new repository is <strong>netng</strong><br />
 Its all about changing and starting new habits that hopefully make me better
 
 <!---
